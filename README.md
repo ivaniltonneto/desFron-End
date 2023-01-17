@@ -36,7 +36,7 @@ You can view the layout of the project in the [web](https://www.figma.com/file/i
 
 ## ℹ️ How To Use
 
-To clone and run this application, you'll need [git](https://git-scm.com), [npm](https://www.npmjs.com/)
+To clone and run this application, you'll need [git](https://git-scm.com), [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com)
 <br/>From your command line:
 
 ```bash
